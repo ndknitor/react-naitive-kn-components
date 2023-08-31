@@ -1,15 +1,9 @@
 {
   "name": "react-native-kn-components",
-  "version": "1.0.3-r3",
+  "version": "1.0.3-r4",
   "description": "",
-  "exports": {
-    "./components": "./dist/components/index.js",
-    "./enum": "./dist/enums/index.js",
-    "./functions": "./dist/functions/index.js",
-    "./hooks" :"./dist/hooks/index.js"
-  },
   "files": [
-    "dist"
+    "./"
   ],
   "scripts": {
     "build": "rm -rf dist && tsc",

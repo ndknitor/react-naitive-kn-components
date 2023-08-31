@@ -2,3 +2,7 @@
 /node_modules
 yarn.lock
 package-lock.json
+/components
+/enums
+/functions
+/hooks
